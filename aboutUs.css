@@ -264,7 +264,7 @@ body {
         }
         
         header p {
-            font-size: 0.5rem;
+            font-size: 0.6rem;
             color: white;
             text-decoration: none;
         }
@@ -305,7 +305,7 @@ body {
         .main-container {
             margin-top: 3%;
             margin-left: 5%;
-            height: 1020px;
+            height: 1200px;
             width: 90%;
             display: flex;
             flex-direction: column;
@@ -315,7 +315,7 @@ body {
         }
     
         .first-container {
-            height: 500px;
+            height: 600px;
             width: 100%;
             display: flex;
             flex-direction: row;
@@ -327,7 +327,7 @@ body {
         }
     
         .item-1 {
-            height: 510px;
+            height: 600px;
             /* width: 68%; */
             width: 100%;
             background-color: rgb(255, 170, 170);
@@ -336,13 +336,13 @@ body {
         }
     
         .item-2 {
-            height: 510px;
+            height: 600px;
             width: 100%;
             background-color: white;
         }
     
         .second-container {
-            height: 510px;
+            height: 600px;
             width: auto;
             display: flex;
             flex-direction: row;
@@ -356,13 +356,13 @@ body {
         }
     
         .item-3 {
-            height: 520px;
+            height: 600px;
             width: 100%;
             background-color: white;
         }
     
         .item-4 {
-            height: 448px;
+            height: 536px;
             /* width: 68%; */
             width: 85.3%;
             background-color: rgb(255, 170, 170);
@@ -372,9 +372,9 @@ body {
         /* FOOTER */
 
     footer {
-        height: 170px;
+        height: 120px;
         width: auto;
-        background-color: rgb(255, 249, 249);
+        /* background-color: rgb(255, 249, 249); */
         margin-top: 30%;
     }
 
@@ -390,6 +390,7 @@ body {
 
     .socials {
         width: auto;
+        margin-top: -100px;
     }
 
     .socials img {
@@ -405,4 +406,5 @@ body {
         text-align: center;
         font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     }
-}
+
+}   
