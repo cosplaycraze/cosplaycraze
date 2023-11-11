@@ -507,7 +507,11 @@ body {
             width: 55px;
         }
 .navbar a {
-            margin: 5px 0;
+            width: 30px;
+            color: #5f5f96;   
+            text-decoration: none;
+            padding: 29px 14px;
+            border-radius: 100px;
         }
     
 .navbar ul{
